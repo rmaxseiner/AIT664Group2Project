@@ -1,0 +1,138 @@
+FIPS_Code,District_ID,District_Name,Total_Population,Children_5_to_17,Poverty_5_to_17,Source File,Creation Date
+51,60,Accomack County Public Schools,33246,5075,1189,sd21-va.txt,30Nov2022
+51,90,Albemarle County Public Schools,113535,16669,1296,sd21-va.txt,30Nov2022
+51,120,Alexandria City Public Schools,154706,17979,2606,sd21-va.txt,30Nov2022
+51,152,Alleghany County Public Schools,14986,2112,382,sd21-va.txt,30Nov2022
+51,180,Amelia County Public Schools,13268,2011,259,sd21-va.txt,30Nov2022
+51,210,Amherst County Public Schools,31273,4598,737,sd21-va.txt,30Nov2022
+51,240,Appomattox County Public Schools,16353,2556,394,sd21-va.txt,30Nov2022
+51,270,Arlington County Public Schools,232965,30452,2714,sd21-va.txt,30Nov2022
+51,300,Augusta County Public Schools,77563,11199,1119,sd21-va.txt,30Nov2022
+51,330,Bath County Public Schools,4114,461,76,sd21-va.txt,30Nov2022
+51,360,Bedford County Public Schools,80131,12082,1374,sd21-va.txt,30Nov2022
+51,390,Bland County Public Schools,6173,684,107,sd21-va.txt,30Nov2022
+51,420,Botetourt County Public Schools,33866,4972,360,sd21-va.txt,30Nov2022
+51,450,Bristol City Public Schools,17054,2627,758,sd21-va.txt,30Nov2022
+51,480,Brunswick County Public Schools,15940,1886,568,sd21-va.txt,30Nov2022
+51,510,Buchanan County Public Schools,19816,2618,724,sd21-va.txt,30Nov2022
+51,540,Buckingham County Public Schools,16947,2289,442,sd21-va.txt,30Nov2022
+51,560,Buena Vista City Public Schools,6601,1003,208,sd21-va.txt,30Nov2022
+51,600,Campbell County Public Schools,55492,8163,1164,sd21-va.txt,30Nov2022
+51,660,Caroline County Public Schools,31332,5253,747,sd21-va.txt,30Nov2022
+51,690,Carroll County Public Schools,29048,3906,854,sd21-va.txt,30Nov2022
+51,720,Charles City County Public Schools,6594,706,122,sd21-va.txt,30Nov2022
+51,750,Charlotte County Public Schools,11448,1841,446,sd21-va.txt,30Nov2022
+51,780,Charlottesville City Public Schools,45672,4827,915,sd21-va.txt,30Nov2022
+51,810,Chesapeake City Public Schools,251269,45734,4143,sd21-va.txt,30Nov2022
+51,840,Chesterfield County Public Schools,370688,66195,5427,sd21-va.txt,30Nov2022
+51,870,Clarke County Public Schools,14881,2312,148,sd21-va.txt,30Nov2022
+51,930,Colonial Beach Town Public Schools,3871,509,112,sd21-va.txt,30Nov2022
+51,960,Colonial Heights City Public Schools,18273,3163,511,sd21-va.txt,30Nov2022
+51,990,Covington City Public Schools,5717,932,251,sd21-va.txt,30Nov2022
+51,1020,Craig County Public Schools,4865,658,107,sd21-va.txt,30Nov2022
+51,1050,Culpeper County Public Schools,53596,10010,1105,sd21-va.txt,30Nov2022
+51,1080,Cumberland County Public Schools,9681,1388,324,sd21-va.txt,30Nov2022
+51,22,Dahlgren Department of Defense School District,745,126,4,sd21-va.txt,30Nov2022
+51,1110,Danville City Public Schools,42215,6949,2547,sd21-va.txt,30Nov2022
+51,1140,Dickenson County Public Schools,13787,2042,519,sd21-va.txt,30Nov2022
+51,1170,Dinwiddie County Public Schools,27912,4358,638,sd21-va.txt,30Nov2022
+51,1190,Emporia City Public Schools,5667,1047,336,sd21-va.txt,30Nov2022
+51,1200,Essex County Public Schools,10573,1409,277,sd21-va.txt,30Nov2022
+51,1230,Fairfax City Public Schools,24276,3695,307,sd21-va.txt,30Nov2022
+51,1260,Fairfax County Public Schools,1139720,196027,17656,sd21-va.txt,30Nov2022
+51,1290,Falls Church City Public Schools,14493,2725,79,sd21-va.txt,30Nov2022
+51,1320,Fauquier County Public Schools,73815,12976,793,sd21-va.txt,30Nov2022
+51,1350,Floyd County Public Schools,15566,2238,335,sd21-va.txt,30Nov2022
+51,1380,Fluvanna County Public Schools,27723,4035,339,sd21-va.txt,30Nov2022
+51,1410,Franklin City Public Schools,8217,1508,505,sd21-va.txt,30Nov2022
+51,1440,Franklin County Public Schools,54938,7768,1205,sd21-va.txt,30Nov2022
+51,1470,Frederick County Public Schools,93717,16196,1493,sd21-va.txt,30Nov2022
+51,1510,Fredericksburg City Public Schools,28367,4189,847,sd21-va.txt,30Nov2022
+51,1560,Galax City Public Schools,6660,1213,426,sd21-va.txt,30Nov2022
+51,1590,Giles County Public Schools,16562,2485,383,sd21-va.txt,30Nov2022
+51,1620,Gloucester County Public Schools,39069,5905,671,sd21-va.txt,30Nov2022
+51,1650,Goochland County Public Schools,25488,3272,246,sd21-va.txt,30Nov2022
+51,1690,Grayson County Public Schools,15359,1880,423,sd21-va.txt,30Nov2022
+51,1710,Greene County Public Schools,20968,3698,411,sd21-va.txt,30Nov2022
+51,1740,Greensville County Public Schools,11437,1359,294,sd21-va.txt,30Nov2022
+51,1770,Halifax County Public Schools,33738,5120,1068,sd21-va.txt,30Nov2022
+51,1800,Hampton City Public Schools,137746,21197,3834,sd21-va.txt,30Nov2022
+51,1830,Hanover County Public Schools,111603,18770,1430,sd21-va.txt,30Nov2022
+51,1860,Harrisonburg City Public Schools,51430,5922,1010,sd21-va.txt,30Nov2022
+51,1890,Henrico County Public Schools,333554,54966,4963,sd21-va.txt,30Nov2022
+51,1920,Henry County Public Schools,50248,7445,1499,sd21-va.txt,30Nov2022
+51,1950,Highland County Public Schools,2226,204,42,sd21-va.txt,30Nov2022
+51,1980,Hopewell City Public Schools,23140,4387,1253,sd21-va.txt,30Nov2022
+51,2010,Isle of Wight County Public Schools,39278,6440,670,sd21-va.txt,30Nov2022
+51,36,James City County Public Schools,79882,11886,1135,sd21-va.txt,30Nov2022
+51,2100,King George County Public Schools,26744,5061,391,sd21-va.txt,30Nov2022
+51,2120,King William County Public Schools,14688,2442,222,sd21-va.txt,30Nov2022
+51,2070,King and Queen County Public Schools,6662,854,177,sd21-va.txt,30Nov2022
+51,2160,Lancaster County Public Schools,10928,1315,287,sd21-va.txt,30Nov2022
+51,2190,Lee County Public Schools,21983,3100,983,sd21-va.txt,30Nov2022
+51,2220,Lexington City Public Schools,7456,625,75,sd21-va.txt,30Nov2022
+51,2250,Loudoun County Public Schools,427592,88689,2842,sd21-va.txt,30Nov2022
+51,2280,Louisa County Public Schools,38848,5720,735,sd21-va.txt,30Nov2022
+51,2310,Lunenburg County Public Schools,11926,1767,400,sd21-va.txt,30Nov2022
+51,2340,Lynchburg City Public Schools,79009,10422,2269,sd21-va.txt,30Nov2022
+51,2370,Madison County Public Schools,13942,2102,300,sd21-va.txt,30Nov2022
+51,2360,Manassas City Public Schools,42708,7825,1138,sd21-va.txt,30Nov2022
+51,2390,Manassas Park City Public Schools,17002,3083,359,sd21-va.txt,30Nov2022
+51,2400,Martinsville City Public Schools,13517,2589,770,sd21-va.txt,30Nov2022
+51,2430,Mathews County Public Schools,8546,1025,145,sd21-va.txt,30Nov2022
+51,2460,Mecklenburg County Public Schools,30248,4091,920,sd21-va.txt,30Nov2022
+51,2490,Middlesex County Public Schools,10781,1220,250,sd21-va.txt,30Nov2022
+51,2520,Montgomery County Public Schools,98473,11350,1394,sd21-va.txt,30Nov2022
+51,2580,Nelson County Public Schools,14790,1883,330,sd21-va.txt,30Nov2022
+51,2610,New Kent County Public Schools,23897,3500,233,sd21-va.txt,30Nov2022
+51,2640,Newport News City Public Schools,184587,30168,6846,sd21-va.txt,30Nov2022
+51,2670,Norfolk City Public Schools,235089,30899,6625,sd21-va.txt,30Nov2022
+51,2710,Northampton County Public Schools,12085,1729,463,sd21-va.txt,30Nov2022
+51,2730,Northumberland County Public Schools,12029,1296,288,sd21-va.txt,30Nov2022
+51,2760,Norton City Public Schools,3666,600,175,sd21-va.txt,30Nov2022
+51,2790,Nottoway County Public Schools,15594,2187,454,sd21-va.txt,30Nov2022
+51,2820,Orange County Public Schools,37188,5701,705,sd21-va.txt,30Nov2022
+51,2850,Page County Public Schools,23807,3522,603,sd21-va.txt,30Nov2022
+51,2880,Patrick County Public Schools,17602,2425,476,sd21-va.txt,30Nov2022
+51,2910,Petersburg City Public Schools,33429,5062,1750,sd21-va.txt,30Nov2022
+51,2940,Pittsylvania County Public Schools,59972,8431,1341,sd21-va.txt,30Nov2022
+51,2980,Poquoson City Public Schools,12574,2316,117,sd21-va.txt,30Nov2022
+51,3000,Portsmouth City Public Schools,97840,15819,3942,sd21-va.txt,30Nov2022
+51,3030,Powhatan County Public Schools,31136,4317,292,sd21-va.txt,30Nov2022
+51,3060,Prince Edward County Public Schools,21932,2520,617,sd21-va.txt,30Nov2022
+51,3090,Prince George County Public Schools,42880,7343,864,sd21-va.txt,30Nov2022
+51,3130,Prince William County Public Schools,478645,95260,7500,sd21-va.txt,30Nov2022
+51,3150,Pulaski County Public Schools,33759,4472,814,sd21-va.txt,30Nov2022
+51,23,Quantico Marine Corps Center School District,7425,974,51,sd21-va.txt,30Nov2022
+51,3180,Radford City Public Schools,16499,1506,239,sd21-va.txt,30Nov2022
+51,3210,Rappahannock County Public Schools,7407,936,137,sd21-va.txt,30Nov2022
+51,3240,Richmond City Public Schools,226604,25853,8810,sd21-va.txt,30Nov2022
+51,3270,Richmond County Public Schools,9017,1142,210,sd21-va.txt,30Nov2022
+51,3300,Roanoke City Public Schools,98865,15819,4079,sd21-va.txt,30Nov2022
+51,3330,Roanoke County Public Schools,96589,14780,1180,sd21-va.txt,30Nov2022
+51,3370,Rockbridge County Public Schools,22641,3081,459,sd21-va.txt,30Nov2022
+51,3390,Rockingham County Public Schools,84394,13890,1347,sd21-va.txt,30Nov2022
+51,3420,Russell County Public Schools,25550,3624,802,sd21-va.txt,30Nov2022
+51,3460,Salem City Public Schools,25373,3628,449,sd21-va.txt,30Nov2022
+51,3480,Scott County Public Schools,21419,3020,571,sd21-va.txt,30Nov2022
+51,3510,Shenandoah County Public Schools,44752,6976,981,sd21-va.txt,30Nov2022
+51,3520,Smyth County Public Schools,29477,4328,894,sd21-va.txt,30Nov2022
+51,3600,Southampton County Public Schools,18006,2587,433,sd21-va.txt,30Nov2022
+51,3640,Spotsylvania County Public Schools,143676,26610,2525,sd21-va.txt,30Nov2022
+51,3660,Stafford County Public Schools,159279,32079,1940,sd21-va.txt,30Nov2022
+51,3690,Staunton City Public Schools,25661,3454,589,sd21-va.txt,30Nov2022
+51,3710,Suffolk City Public Schools,96194,16745,2095,sd21-va.txt,30Nov2022
+51,3750,Surry County Public Schools,6530,763,155,sd21-va.txt,30Nov2022
+51,3780,Sussex County Public Schools,10763,1217,303,sd21-va.txt,30Nov2022
+51,3810,Tazewell County Public Schools,39925,5841,1480,sd21-va.txt,30Nov2022
+51,3840,Virginia Beach City Public Schools,457672,73815,8342,sd21-va.txt,30Nov2022
+51,3870,Warren County Public Schools,40925,6498,816,sd21-va.txt,30Nov2022
+51,3900,Washington County Public Schools,53635,7245,1182,sd21-va.txt,30Nov2022
+51,3930,Waynesboro City Public Schools,22550,3750,692,sd21-va.txt,30Nov2022
+51,3950,West Point Town Public Schools,3483,641,65,sd21-va.txt,30Nov2022
+51,3980,Westmoreland County Public Schools,14860,2070,491,sd21-va.txt,30Nov2022
+51,4020,Williamsburg City Public Schools,15590,1286,257,sd21-va.txt,30Nov2022
+51,4050,Winchester City Public Schools,28136,4563,774,sd21-va.txt,30Nov2022
+51,4080,Wise County Public Schools,35647,5234,1189,sd21-va.txt,30Nov2022
+51,4110,Wythe County Public Schools,28178,4125,1038,sd21-va.txt,30Nov2022
+51,4150,York County Public Schools,70915,12901,703,sd21-va.txt,30Nov2022
