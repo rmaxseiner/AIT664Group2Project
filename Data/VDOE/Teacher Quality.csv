@@ -1,0 +1,13 @@
+"Teacher Quality"
+4/3/2023
+
+Year,Level,"Poverty Level","Title1 Code","Percent of Inexperienced Teachers","Percent of Out-of-Field Teachers","Percent of Out-of-Field and Inexperienced Teachers"
+"2021 - 2022",STATE,"All Schools","All Schools",5.3,5.2,1.1
+"2021 - 2022",STATE,"All Schools","Non-Title I",5.2,5.7,1.1
+"2021 - 2022",STATE,"All Schools","Title I",5.8,3.9,1
+"2021 - 2022",STATE,"High Poverty","All Schools",5.6,6.8,1.5
+"2021 - 2022",STATE,"High Poverty","Non-Title I",5.1,10.7,2
+"2021 - 2022",STATE,"High Poverty","Title I",5.8,5,1.2
+"2021 - 2022",STATE,"Low Poverty","All Schools",4.5,3.9,0.7
+"2021 - 2022",STATE,"Low Poverty","Non-Title I",4.5,4,0.7
+"2021 - 2022",STATE,"Low Poverty","Title I",4.2,2.1,0.7
